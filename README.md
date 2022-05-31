@@ -1,11 +1,11 @@
-💡 &nbsp; I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework. \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.\
-🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
+💡 &nbsp; I'm a data engineer at OCBang/ OCInsights, working on data cycle including distributed data scraping, data cleaning, data model selection, and MySQL database management. \
+💻 &nbsp; I have developed some websites with React.js, Node.js and MySQL for internal and external usages.\
+🎓 &nbsp;I graduated form San Jose State University, California (Master of Science in Engineering in) in 2020.\
+🌱 &nbsp;I'm on track for learning more about Web Development, Machine Learning, and any other cool coding stuffs!\
+✍️ &nbsp;In my free time, I play guitar, basketball and find delicious food as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience.
+✉️ &nbsp;You can email me at a2040404@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [Resume](https://docs.google.com/document/d/1vXLElGSmYK_5dFozeQFw4j_ytgqICuyOqz0HtSzrrtY/edit?usp=sharing) for more details about work experience.
 
 <!---
 clement55688/clement55688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
