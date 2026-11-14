@@ -1,44 +1,47 @@
 # Clement Lin
 
-Software engineer based in San Jose, CA, with about 4–5 years of experience. Open to mid-level software engineering roles (remote, San Francisco Bay Area, or Los Angeles).
+Software engineer in San Jose, CA, with about 4–5 years of experience in full-stack and frontend engineering. Open to mid-level software engineering roles (remote, San Francisco Bay Area, or Los Angeles).
 
-## About
+Portfolio: [clement-portfolio.a2040404.workers.dev](https://clement-portfolio.a2040404.workers.dev/)
 
-Experience includes Rhombus Power (2023–2026) and OCBridge (2021–2022).
+## What I build
 
-- MCS, University of Illinois Urbana-Champaign (2025)
-- Master's, San Jose State University (2020)
-
-## Tech stack
-
-Languages and frameworks used in the featured repositories below.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+- Web and mobile product frontends in React, React Native and TypeScript, shipped to web and iOS with Expo
+- AI-powered product features, with most of the effort going into the UX around them
+- Small full-stack apps on Cloudflare Workers, from static games with a D1 leaderboard to a Next.js site
 
 ## Featured projects
 
-### [clement-portfolio](https://github.com/clement55688/clement-portfolio)
+**WhereTo** — AI group trip planner with a storybook-style planner and a two-sided agency + traveler demo. Web and iOS via Expo. React Native, TypeScript. *Private, demo on request.*
 
-Next.js and TypeScript portfolio and project showcase. It also hosts browser mini games, including [Catvolution](https://hoof-game.a2040404.workers.dev/catvolution/).
+**LiftDice** — Mobile strength-training app with rest timers, a muscle map and "Dice" controlled-random workouts. Expo, React Native, TypeScript, SQLite. *Private, demo on request.*
 
-### [python-coding-interview-practice](https://github.com/clement55688/python-coding-interview-practice)
+**[Clement's Arcade](https://github.com/clement55688/clement-arcade)** — Seven browser mini-games with persistent leaderboards, served by one Cloudflare Worker with D1. JavaScript, Wrangler. [Play it](https://hoof-game.a2040404.workers.dev/)
 
-31 Python interview exercises with unit tests.
+<a href="https://hoof-game.a2040404.workers.dev/"><img src="https://raw.githubusercontent.com/clement55688/clement-arcade/main/dist/social.png" alt="HOOF!, one of the games in Clement's Arcade" width="480"></a>
 
-### [react-library-oa-practice](https://github.com/clement55688/react-library-oa-practice)
+**[clement-portfolio](https://github.com/clement55688/clement-portfolio)** — Scroll-driven portfolio with a 3D scene, guestbook, mini-games and a live snowfall map. Next.js, TypeScript, Tailwind CSS, React Three Fiber, deployed to Cloudflare Workers with OpenNext. [Visit](https://clement-portfolio.a2040404.workers.dev/)
 
-React frontend online-assessment practice with mock APIs and tests.
+**[DJ Intake](https://github.com/clement55688/dj-intake-app)** — Local macOS app that turns track requests into an organized staging library, with a menu-bar quick-add and timestamp clips. Python, yt-dlp, FFmpeg, Swift.
+
+Also public: [react-library-oa-practice](https://github.com/clement55688/react-library-oa-practice) (React + Vitest frontend exercise) and [python-coding-interview-practice](https://github.com/clement55688/python-coding-interview-practice).
+
+## Stack
+
+- **Languages:** TypeScript, JavaScript, Python
+- **Frontend:** React, React Native, Expo, Next.js, Tailwind CSS, React Three Fiber
+- **Backend and platform:** Cloudflare Workers, D1, Node.js, SQLite
+- **Testing:** Vitest, Testing Library, node:test, Python unittest
+
+## Background
+
+- Rhombus Power (2023–2026)
+- OCBridge (2021–2022)
+- MCS, University of Illinois Urbana-Champaign (2025)
+- Master's, San Jose State University (2020)
 
 ## Contact
 
-- GitHub: [@clement55688](https://github.com/clement55688)
+Reach me through my [portfolio](https://clement-portfolio.a2040404.workers.dev/) or here on GitHub.
 <!-- TODO: LinkedIn URL -->
 <!-- TODO: email -->
-<!-- TODO: portfolio URL -->
