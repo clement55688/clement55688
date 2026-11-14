@@ -20,7 +20,7 @@ Portfolio: [clement-portfolio.a2040404.workers.dev](https://clement-portfolio.a2
 
 <a href="https://hoof-game.a2040404.workers.dev/"><img src="https://raw.githubusercontent.com/clement55688/clement-arcade/main/dist/social.png" alt="HOOF!, one of the games in Clement's Arcade" width="480"></a>
 
-**[clement-portfolio](https://github.com/clement55688/clement-portfolio)** — Scroll-driven portfolio with a 3D scene, guestbook, mini-games and a live snowfall map. Next.js, TypeScript, Tailwind CSS, React Three Fiber, deployed to Cloudflare Workers with OpenNext. [Visit](https://clement-portfolio.a2040404.workers.dev/)
+**[clement-portfolio](https://github.com/clement55688/clement-portfolio)** — Personal site with my tools, browser games and a live snowfall map. Next.js, TypeScript, Tailwind CSS, MapLibre, deployed to Cloudflare Workers with OpenNext. [Visit](https://clement-portfolio.a2040404.workers.dev/)
 
 **[DJ Intake](https://github.com/clement55688/dj-intake-app)** — Local macOS app that turns track requests into an organized staging library, with a menu-bar quick-add and timestamp clips. Python, yt-dlp, FFmpeg, Swift.
 
@@ -29,7 +29,7 @@ Also public: [react-library-oa-practice](https://github.com/clement55688/react-l
 ## Stack
 
 - **Languages:** TypeScript, JavaScript, Python
-- **Frontend:** React, React Native, Expo, Next.js, Tailwind CSS, React Three Fiber
+- **Frontend:** React, React Native, Expo, Next.js, Tailwind CSS
 - **Backend and platform:** Cloudflare Workers, D1, Node.js, SQLite
 - **Testing:** Vitest, Testing Library, node:test, Python unittest
 
